@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b12db5e2eeb12b4c9099df9ed41c49f, type: 3}
+  m_Name: EnemiesConfig
+  m_EditorClassIdentifier: 
+  _numberOfEnemies: 3
+  _speed: 0
+  _acceleration: 0
+  _hp: 0
+  _damage: 0
+  _force: 0
+  _stillEnemyPrefab: {fileID: 1511981611467412923, guid: d8b61ce7746a28649a168525c54df467, type: 3}
+  _meleeEnemyPrefab: {fileID: 1511981611467412923, guid: a673d14431a80a54a9ded209ab932aa9, type: 3}
+  _rangedEnemyPrefab: {fileID: 1511981611467412923, guid: 6898f1762c820724f92c71e295c9a222, type: 3}
+  _clonableEnemyPrefab: {fileID: 1511981611467412923, guid: 8ececb150cdf46244bc4ca6787fba8fb, type: 3}
